@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-kkumar2005
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning react and react native
-- 💞️ I’m looking for new job or freelance
+- 💞️ I’m looking for new opportunity or freelance work
 - 📫 ksahu6654@gmail.com
 
 <!---
